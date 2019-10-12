@@ -4,4 +4,4 @@ test
 test22
 test33
 Creating a new branch is quick.
-branch test
+creating a new branch is quick and simple
